@@ -3,17 +3,17 @@
 - part: How To
   chapters:
   - file: How-To-Interact-With-This-Book
-    title: Interact With This Book
+    title: Interact With This Website
 
-- part: The Course
+- part: About Me
   chapters:
   - file: course-schedule
-    title: Course Schedule
+    title: Curriculum Vitae
 
   - file: syllabus
     title: Course Syllabus
   
-- part: The Book
+- part: Blog
   chapters:
   - file: Command-Line/The-Command-Line
     title: 1. The Command Line
